@@ -1,0 +1,24 @@
+.node_in_list {
+    color: var(--main-text);
+    font-size: 14px;
+
+    min-width: 70px;
+    min-height: 70px;
+    border-radius: 4px;
+    background-color: #272727;
+
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.list {
+    margin-top: 10px;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 10px;
+
+    overflow: scroll;
+    height: 100%;
+}

@@ -1,0 +1,21 @@
+.navigation {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 15px;
+    align-items: flex-start;
+
+    margin: 20px 0px;
+}
+
+.lists {
+    border-top: 1px solid #CAC4D0;
+    margin: 0 10px 0 10px;
+    padding: 0 14px;
+
+    height: 65%;
+}
+
+.panel {
+    height: 100vh;
+    background-color: #2E2E2E;
+}

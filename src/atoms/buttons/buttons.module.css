@@ -1,0 +1,12 @@
+button {
+    font-size: 12px;
+    color: #CAC4D0;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+
+    padding: 4px 6px;
+    background-color: #403F40;
+    border-radius: 0 5px 5px 0;
+}

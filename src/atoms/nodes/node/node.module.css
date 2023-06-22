@@ -1,0 +1,13 @@
+.node_in_list {
+    color: var(--main-text);
+
+    width: 70px;
+    height: 70px;
+    border-radius: 4px;
+    background-color: #272727;
+
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
